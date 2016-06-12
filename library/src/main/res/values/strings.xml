@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Library</string>
+    <string name="onboarding_fragment_content_hotels">All hotels and hostels are sorted by hospitality rating</string>
+    <string name="onboarding_fragment_title_hotels">Hotels</string>
+</resources>

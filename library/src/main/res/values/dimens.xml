@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_size_circle_view">32dp</dimen>
+    <dimen name="default_size_image_view">24dp</dimen>
+    <dimen name="onboarding_fragment_padding">32dp</dimen>
+    <dimen name="default_padding">16dp</dimen>
+    <dimen name="onboarding_fragment_image">144dp</dimen>
+</resources>

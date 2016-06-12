@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:id="@+id/onboarding_fragment_root"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:gravity="center"
+              android:orientation="vertical"
+              android:padding="@dimen/onboarding_fragment_padding">
+
+    <ImageView
+        android:id="@+id/onboarding_fragment_image"
+        android:layout_width="@dimen/onboarding_fragment_image"
+        android:layout_height="@dimen/onboarding_fragment_image"/>
+
+    <TextView
+        android:id="@+id/onboarding_fragment_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:textColor="@color/white"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        tools:text="Hotels"/>
+
+    <TextView
+        android:id="@+id/onboarding_fragment_content"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/white"
+        android:textSize="18sp"
+        tools:text="All hotels and hostels are sorted by hospitality rating"/>
+
+</LinearLayout>
